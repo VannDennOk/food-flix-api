@@ -5,8 +5,7 @@
             "titulo": "Rigatoni alla Norma",
             "categoria": "pastas",
             "imagen": "https://i.postimg.cc/66vQtzp7/pasta-01-norma.png",
-            "link33": "https://youtu.be/axfR-rPCo6U?si=g6VoHjoSxWkVfIek",
-            "link": "https://www.youtube.com/embed/fk1Q9y6VVy0?si=xf26kaZ1afD0fsnb",
+             "link": "https://www.youtube.com/embed/axfR-rPCo6U?si=tqCTOO2cyX0ywCYo",
             "descripcion": "Receta de pasta a la Norma"
         },
         {
@@ -14,7 +13,7 @@
             "titulo": "Fettuccine peperonata",
             "categoria": "pastas",
             "imagen": "https://i.postimg.cc/C1ZxZsCQ/pasta-02-peperonata.png",
-            "link": "https://youtu.be/VhQU8yNFa-4?si=X_kXn2ayaS5tszO7",
+            "link": "https://www.youtube.com/embed/VhQU8yNFa-4?si=S-cKZHsVh27kokjS",
             "descripcion": "Receta de pasta a la peperonata"
         },
         {
@@ -22,7 +21,7 @@
             "titulo": "Rigatoni ai funghi",
             "categoria": "pastas",
             "imagen": "https://i.postimg.cc/YSDSqsFF/pasta-03-funghi.png",
-            "link": "https://youtu.be/-CDBqBjfH2g?si=63wnaVlEBCp33kCr",
+            "link": "https://www.youtube.com/embed/-CDBqBjfH2g?si=qepTFftbkTM4soiC",
             "descripcion": "Receta de pasta con hongos"
         },
         {
@@ -30,7 +29,7 @@
             "titulo": "Pizza funghi",
             "categoria": "pizzas",
             "imagen": "https://i.postimg.cc/sXtD5GwD/pizza-01-funghi.png",
-            "link": "https://youtu.be/NpwhBFrOUmI?si=0Jewhs49SxVQMNP4",
+            "link": "https://www.youtube.com/embed/NpwhBFrOUmI?si=f2OhF-NDgh0XuNv6",
             "descripcion": "Receta de pizza de hongos"
         },
         {
@@ -38,7 +37,7 @@
             "titulo": "Pizza napolitana",
             "categoria": "pizzas",
             "imagen": "https://i.postimg.cc/3w1Kfb16/pizza-02-napolitana.png",
-            "link": "",
+            "link": "https://www.youtube.com/embed/atKtlyhcRlM?si=Ja0ItWfvoQXeG5T6",
             "descripcion": "Receta de pizza de napolitana"
         },
         {
@@ -46,7 +45,7 @@
             "titulo": "Pizza carbonara",
             "categoria": "pizzas",
             "imagen": "https://i.postimg.cc/VN86Vt8S/pizza-03-carbonara.png",
-            "link": "https://youtu.be/vz-AYJRYZo0?si=3UumWemKtgXbqRVa",
+            "link": "https://www.youtube.com/embed/vz-AYJRYZo0?si=lyaqW72FiR5CY8Te",
             "descripcion": "Receta de pizza a la carbonara"
         },
         {
@@ -54,7 +53,7 @@
             "titulo": "Ensalada de rabanitos",
             "categoria": "ensaladas",
             "imagen": "https://i.postimg.cc/FHczpZ25/ensalada-01-rabanitos.png",
-            "link": "https://youtu.be/HVA31cX7EtQ?si=xcpMTTJ13eRSig-n",
+            "link": "https://www.youtube.com/embed/HVA31cX7EtQ?si=bG6P4kuCf-U3xnJG",
             "descripcion": "Receta de ensalada a base de rabanitos"
         },
         {
@@ -62,7 +61,7 @@
             "titulo": "Ensalada de palta",
             "categoria": "ensaladas",
             "imagen": "https://i.postimg.cc/g0HJF0zg/ensalada-02-palta.png",
-            "link": "https://youtu.be/-BNHwczpLCE?si=XUayRm_VLg8c0J1w",
+            "link": "https://www.youtube.com/embed/-BNHwczpLCE?si=GW7DADH58vus5Q3S",
             "descripcion": "Receta de ensalada a base de palta"
         },
         {
@@ -70,7 +69,7 @@
             "titulo": "Ensalada de pepinos",
             "categoria": "ensaladas",
             "imagen": "https://i.postimg.cc/yYDkgBjN/ensalada-03-pepinos.png",
-            "link": "https://youtu.be/HVA31cX7EtQ?si=TYo7y49dBillq9QR",
+            "link": "https://www.youtube.com/embed/HVA31cX7EtQ?si=6S-oYBKzLpF3LMsa",
             "descripcion": "Receta de ensalada a base de pepinso"
         }
     ]
